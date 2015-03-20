@@ -1,0 +1,9 @@
+---
+layout: default
+img: max_mains_rating.jpg
+category: Services
+title: About
+description: |
+  <p class="lead">Donny Electric has over thirty years of experience in electrical repairs and maintenance. We believe in quality work, honesty, and providing the best value possible. We serve southern California and are <strong>Licensed and Bonded</strong>.</p>
+
+---

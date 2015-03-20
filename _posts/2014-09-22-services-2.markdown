@@ -1,0 +1,14 @@
+---
+layout: default
+img: on_off.jpg
+category: Services
+title: Residential Services
+description: |
+  <p class="lead">We're ready to serve all of your residential electrical needs. We can help make your home safer with electrical work that will last.</p>
+  <ul class="list-unstyled">
+    <li>Home Remodels</li>
+    <li>Lighting Wiring</li>
+    <li>Electric Panel Installation and Repair</li>
+  </ul>
+
+---

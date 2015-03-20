@@ -1,0 +1,13 @@
+---
+layout: default
+img: commercial.jpg
+category: Services
+title: Commercial Services
+description: |
+  <p class="lead">Donny Electric is available to address all of your commercial electrical needs. From apartments, to restuarants, to offices - we're ready to do the job right.</p>
+  <ul class="list-unstyled">
+    <li>New Construction</li>
+    <li>Apartments & Condos</li>
+    <li>Offices</li>
+  </ul>
+---

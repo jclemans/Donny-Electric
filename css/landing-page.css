@@ -25,7 +25,11 @@ h6 {
     font-size: 18px;
     font-weight: 400;
 }
-
+#top_contact {
+    color: #555;
+    width: 400px;
+    margin: 0 auto 0 auto;
+}
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
@@ -75,8 +79,7 @@ h6 {
     ul.intro-social-buttons > li:last-child {
         margin-bottom: 0;
     }
-
-    .intro-divider {
+    .intro-divider, #top_contact {
         width: 100%;
     }
 }
@@ -112,7 +115,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-foot.jpg) no-repeat center center;
     background-size: cover;
 }
 

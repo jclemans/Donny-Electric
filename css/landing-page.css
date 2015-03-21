@@ -158,7 +158,13 @@ h6 {
         margin-bottom: 0;
     }
 }
-
+.icon-contact {
+    display: inline;
+    font-size: 1.25em;
+}
+.icon-contact i {
+    margin-right: 1em;
+}
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
